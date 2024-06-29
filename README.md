@@ -4,7 +4,7 @@
   
 - 📫 How to reach me? -discord: qipen2
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am 14 and my native language is Russian
+- ⚡ Fun fact:my native language is Russian
 - Я только познаю питон, и был бы рад новому общению на тему о программировании, если есть желание то дискорд выше.
 <!---
 Zerowald/Zerowald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
