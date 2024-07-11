@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zerowald
 - 👀 I am interested in learning python 
-- 🌱 I am currently learning python, javascript
+- 🌱 I am currently learning python, java
   
 - 📫 How to reach me? -discord: qipen2
 - 😄 Pronouns: ...
